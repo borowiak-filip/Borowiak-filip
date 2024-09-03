@@ -1,5 +1,10 @@
-## Hi there 👋
+## Filip Borowiak
 
+[![LinkedIn Badge](https://img.shields.io/badge/-Filip%20Borowiak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipborowiak/)](https://www.linkedin.com/in/filipborowiak/)
+
+
+I am AI and Robotics enthusiast with background in Software Engineering and Mechatronics.
+Currently I am studying MSc in Artificial Intelligence at the University of St Andrews in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 <!--
 **borowiak-filip/Borowiak-filip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
