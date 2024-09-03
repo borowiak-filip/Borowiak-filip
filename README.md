@@ -5,16 +5,17 @@
 
 I am AI and Robotics enthusiast with background in Software Engineering and Mechatronics.
 Currently I am studying MSc in Artificial Intelligence at the University of St Andrews in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-<!--
-**borowiak-filip/Borowiak-filip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Currently work on
+- Trilobot: applying SLAM and AI techniques for object detection and gesture recognition ![Static Badge](https://img.shields.io/badge/raspberrypi4-purple)
+ ![Static Badge](https://img.shields.io/badge/ROS2-Jazzy-Jalisco) ![Static Badge](https://img.shields.io/badge/python-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+#### Mostly code in
+![Static Badge](https://img.shields.io/badge/python-green?style=plastic) ![Static Badge](https://img.shields.io/badge/C%23-blue?style=plastic) ![Static Badge](https://img.shields.io/badge/Java-red?style=plastic)
+
+#### Favourite AI frameworks
+![Static Badge](https://img.shields.io/badge/PyTorch-orange?style=plastic)
+![Static Badge](https://img.shields.io/badge/Tensorflow2-orange?style=plastic)
+
+
+
