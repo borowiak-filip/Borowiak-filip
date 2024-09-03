@@ -6,7 +6,7 @@ I am AI and Robotics enthusiast with background in Software Engineering and Mech
 Currently I am studying MSc in Artificial Intelligence at the University of St Andrews in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 #### I am currently working on
-- Trilobot, Pimoroni Robot: applying SLAM and AI techniques for object detection and gesture recognition ![Static Badge](https://img.shields.io/badge/raspberrypi4-purple) ![Static Badge(https://img.shields.io/badge/ubuntu-orange) ![Static Badge](https://img.shields.io/badge/ROS2-Jazzy-Jalisco) ![Static Badge](https://img.shields.io/badge/python-green)
+- Trilobot, Pimoroni Robot: applying SLAM and AI techniques for object detection and gesture recognition ![Static Badge](https://img.shields.io/badge/raspberrypi4-purple)![Static Badge](https://img.shields.io/badge/ubuntu-orange) ![Static Badge](https://img.shields.io/badge/ROS2-Jazzy-Jalisco) ![Static Badge](https://img.shields.io/badge/python-green)
 
 #### I am currently learning
 ![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Static Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
