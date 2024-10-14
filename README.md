@@ -11,7 +11,7 @@ and my personal website over here 👉🏽 [![My Website](https://img.shields.io
 
 #### I am currently working on
 - Trilobot, from Pimoroni
-<br> applying SLAM and AI techniques for object detection and gesture recognition <br> ![RPI](https://img.shields.io/badge/raspberrypi4-purple) ![UBUNTU](https://img.shields.io/badge/ubuntu-orange) ![ROS Jazzy](https://img.shields.io/badge/ROS2-Jazzy_Jalisco-green) ![Static Badge](https://img.shields.io/badge/rviz-green) ![Python](https://img.shields.io/badge/python3-green)
+<br> Applying computer vision techniques allowing robot to perform segmentation and object detection, improving its autonomous behaviour.<br> ![RPI](https://img.shields.io/badge/raspberrypi4-purple) ![UBUNTU](https://img.shields.io/badge/OpenCV-orange) ![Python](https://img.shields.io/badge/python3-green)
 
 #### I mostly code in
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
