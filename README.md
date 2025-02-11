@@ -1,7 +1,7 @@
 ## Filip Borowiak
 
 Hi 👋🏽 My name is Filip! <br>
-I am trained Mechatronics and Computer Scientist,<br>
+I am trained Computer Scientist and Mechatronics Engineer,<br>
 currenlty Studying MSc in Artificial Intelligence at the University of St Andrews in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿. <br>
 My recent work focuses on applied AI in autonomous systems ⚛️, however I do good old fashion software engineering from time to time 💻.
 The areas of AI & ML I am particularly interested in are: RL, search, planning, decision making, optimisation, computer vision, and theory of mind 🤖🧠.
