@@ -14,7 +14,7 @@ and my personal website over here 👉🏽 [![My Website](https://img.shields.io
 <br> Applying computer vision techniques allowing robot to perform segmentation and object detection, improving its autonomous behaviour.<br> ![RPI](https://img.shields.io/badge/raspberrypi4-purple) ![UBUNTU](https://img.shields.io/badge/OpenCV-orange) ![Python](https://img.shields.io/badge/python3-green)
 
 - UAVs 3D Reconstruction
-<br> I am exploring ways to move from offline 3D reconstruction, to online adaptive planning approach using Microsoft AirSim drone framework. <br> ![UE](https://img.shields.io/badge/unreal_engine-black) ![ROS](https://img.shields.io/badge/ROS-red) ![C](https://img.shields.io/badge/C++-darkblue&logo=c%2B%2B) ![Python](https://img.shields.io/badge/python-green) ![open3d](https://img.shields.io/badge/Open3D-orange)
+<br> I am exploring ways to move from offline 3D reconstruction, to online adaptive planning approach using Microsoft AirSim drone framework. <br> ![UE](https://img.shields.io/badge/Unreal_Engine-white) ![ROS](https://img.shields.io/badge/ROS-red) ![C](https://img.shields.io/badge/C++-darkblue&logo=c%2B%2B) ![Python](https://img.shields.io/badge/python3-green) ![open3d](https://img.shields.io/badge/Open3D-orange) ![AIRSIM](https://img.shields.io/badge/airsim-purple)
 
 - Web browser game using microbit controllers
 <br> Hardware and sfotware integration can be tricky! I am working on a web browser game, running in p5.js which is controlled using two BBC micro:bits controllers. Controllers communicate between each other using radio, and with p5.js through serial. <br> ![JS](https://img.shields.io/badge/JS-yellow) ![P5](https://img.shields.io/badge/p5.js-red) ![Micro](https://img.shields.io/badge/BBC_micro:bit-blue)
