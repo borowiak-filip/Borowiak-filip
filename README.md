@@ -3,7 +3,7 @@
 <p align="center">Hi 👋🏽 My name is Filip! </p>
 
 #### About me:
-  - 🎓 MSc in Artificial Intelligence | BSc in Computer Science | EQF-5 Mechatronics <br>
+  - 🎓 PhD student @ SUTD · AIR Laboratory | MSc in Artificial Intelligence | BSc in Computer Science | EQF-5 Mechatronics <br>
   - 🤖 Currently working a lot with Computer Vision and robotics, mostly drones <br>
   - 🥼My research interest covers: RL, search, planning, navigation, decision making, computer vision, and theory of mind
   - 🧙🏽‍♂️ You can connect with me through:
